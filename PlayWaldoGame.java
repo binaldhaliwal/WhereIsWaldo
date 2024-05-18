@@ -1,13 +1,3 @@
-/*
- *  Course:	    TCSS143 - Fundamentals of Object-Oriented Programming-Theory
- *                        and Application
- *  Name:		    David Schuessler
- *  Instructor:	Mr. Schuessler
- *  Assignment:	Driver for Programming Assignment 1
- *  
- *  File Name:	PlayWaldoGame.java
- */
-
 import java.util.Random;
 import java.util.Scanner;
 
