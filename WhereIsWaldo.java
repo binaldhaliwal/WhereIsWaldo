@@ -1,12 +1,3 @@
-/*
- * Course: TCSS 143 – Fundamentals Of Object-Oriented Programming
-                      Theory And Application  
- * File Name: WhereIsWaldo.java 
- * Assignment: Assignment 1 
- * Due Date: 2023/01/17
- * Instructor: David Schuessler
- */
- 
 import java.io.File;
 import java.util.Random;
 
